@@ -4,7 +4,7 @@
 
 Nicolás Quezada Baier<sup>1a*</sup>, Geovana Casanova Torres<sup>2a*</sup>, Claudia Lara Solís <sup>3a*</sup>, Javiera Miranda Molina<sup>3</sup>
 
-<sup>a</sup>Tecnólogo Médico, <sup>1</sup>Tutor, <sup>2</sup> Cotutora, <sup>3</sup>Alumna Tecnología Médica.
+<sup>a</sup>Tecnólogo Médico, <sup>1</sup>Investigador Principal, <sup>2</sup> Coinvestigadora, <sup>3</sup>Alumna Tecnología Médica.
 
 <sup>*</sup>Escuela de Tecnología Médica, Universidad Austral de Chile, Sede Puerto Montt, Chile.
 
@@ -17,9 +17,9 @@ Nicolás Quezada Baier<sup>1a*</sup>, Geovana Casanova Torres<sup>2a*</sup>, Cla
 
 <h3>Resultados:</h3> Los algoritmos encontrados con sus fórmulas fueron: WDRC, FIG6, POGO II, NAL-R, NAL-RP y DSL, los cuales se implementaron en un banco de pruebas y de verificación en la plataforma Jupyter Notebook, software disponible en: https://jovian.ai/debaq/banco-de-pruebas-para-algoritmos-de-prescripcion-auditiva.
 
-Conclusión: Es posible crear una plataforma en donde se encuentren las fórmulas algorítmicas de los métodos prescriptivos y sistemas de compresión.
+<h3>Conclusión:</h3> Es posible crear una plataforma en donde se encuentren las fórmulas algorítmicas de los métodos prescriptivos y sistemas de compresión.
 
-Palabras Claves: Algoritmo; WDRC; métodos prescriptivos; sistemas de compresión; Jupyter Notebook.
+<h3>Palabras Claves:</h3> Algoritmo; WDRC; métodos prescriptivos; sistemas de compresión; Jupyter Notebook.
 
 ## Abstract:
 
@@ -30,3 +30,8 @@ Method: The research was divided into two stages. The first stage corresponded t
 Conclusion: It is possible to create a platform where the algorithmic formulas of prescriptive methods and compression systems can be found.
 
 Keywords: Algorithm; WDRC; Prescriptive method; Compression system; Jupyter Notebook.
+
+
+Autor de correspondencia: Nicolás Quezada Baier
+Escuela de Tecnología Médica. Universidad Austral de Chile. Sede Puerto Montt. 
+Correo: david.avila@uach.cl
